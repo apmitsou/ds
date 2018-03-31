@@ -6,7 +6,7 @@
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
-<h1 id="titulo-maior--teste">Titulo maior  <img src="https://github.com/apmitsou/ds/blob/master/images/20180324_074002.jpg?raw=true" alt="teste"></h1>
+<h1 id="titulo-maior--teste">Titulo maior  <img src="https://github.com/apmitsou/ds/blob/master/images/20180324_074002.jpg?raw=true"  height="24" width="48"> alt="teste"></h1>
 <p>Texto entre os titulos pode ser escrito normalmente.<br>
 Paragrafo após paragrafo</p>
 <pre><code>	Mas se eu quiser colocar num quadro dois
