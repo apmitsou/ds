@@ -5,7 +5,7 @@
 
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.<br>
-<img src="https://github.com/apmitsou/ds/blob/master/images/20180324_074002.jpg?raw=true" alt="teste"></p>
+<img src="https://github.com/apmitsou/ds/blob/master/images/20180324_074002.jpg?raw=true" height="100" width="200" alt="teste"></p>
 </blockquote>
 <h1 id="titulo-maior">Titulo maior</h1>
 <p>Texto entre os titulos pode ser escrito normalmente.<br>
