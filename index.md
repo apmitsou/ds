@@ -1,14 +1,9 @@
-
-
-
----
-
-
----
+|:--------:|:-------------|
 
 <blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.<br>
-<img src="https://github.com/apmitsou/ds/blob/master/images/20180324_074002.jpg?raw=true" height="300" width="250" alt="teste"></p>
+|<p>Written with <a href="https://stackedit.io/">StackEdit</a>.<br>
+<img src="https://github.com/apmitsou/ds/blob/master/images/20180324_074002.jpg?raw=true" height="300" width="250" alt="teste"></p>| Ana Paula Mitsou
+paula.mitsou@gmail.com|
 </blockquote>
 <h1 id="titulo-maior">Titulo maior</h1>
 <p>Texto entre os titulos pode ser escrito normalmente.<br>
