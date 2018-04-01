@@ -1,10 +1,28 @@
-|:--------:|:-------------|
+---
 
-<blockquote>
-|<p>Written with <a href="https://stackedit.io/">StackEdit</a>.<br>
-<img src="https://github.com/apmitsou/ds/blob/master/images/20180324_074002.jpg?raw=true" height="300" width="250" alt="teste"></p>| Ana Paula Mitsou
-paula.mitsou@gmail.com|
-</blockquote>
+
+---
+
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://github.com/apmitsou/ds/blob/master/images/20180324_074002.jpg?raw=true" height="200" width="165" alt="teste"></td>
+<td align="right"><h6> Ana Paula Mitsou <a href="mailto:paula.mitsou@gmail.com">paula.mitsou@gmail.com</a></h6></td>
+</tr>
+<tr>
+<td></td>
+<td align="right"></td>
+</tr>
+</tbody>
+</table><blockquote>
+</blockquote> | 
 <h1 id="titulo-maior">Titulo maior</h1>
 <p>Texto entre os titulos pode ser escrito normalmente.<br>
 Paragrafo após paragrafo</p>
@@ -51,7 +69,5 @@ isso é muito bomn</p>
 <p><img src="https://images-gmi-pmc.edge-generalmills.com/612d8afe-a787-45bd-9276-f4d9e23d202d.jpg" alt="torta"></p>
 <pre><code>    select COUNT * FROM TABLE
 </code></pre>
+<p><a href="http://kedit.io/">kedit.io/</a>).</p>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzExMTAyMl19
--->
